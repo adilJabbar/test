@@ -1,0 +1,305 @@
+
+}
+.navbar-inverse{
+	height: 100px;
+}
+.img-responsive{
+	width: 90px;
+	margin-top: 3em;
+}
+#menu{
+	margin-top: 2em;
+	color: white;
+}
+.web1{
+	width: 100%;
+	height: 570px;
+}
+#HAVE{
+	margin-top: -30%;
+	color: white;
+	text-align: center;
+	font-size: 130%;
+}
+#Contact{
+	color: white;
+	text-align: center;
+	font-size: 600%;
+}
+#Our{
+	text-align: center;
+	color: #977B75;
+	font-size: 130%;
+}
+.col-6{
+	background-color: #eee;
+	
+	width: 90%;
+	margin-left: 5%;
+}
+#map{
+	color: green;
+	margin-top: 23%;
+	font-size:300%;
+	margin-left: 10%;
+	
+}
+#map:hover{
+	color: gray;
+
+}
+#Address{
+	padding-left: 8%;
+	padding-top: 1%;
+	font-size: 150%;
+}
+#floor{
+	padding-left: 8%;
+	padding-top: 1%;
+	font-size: 120%;
+	color: #BAA39E;
+}
+#Lahore{
+	padding-left: 8%;
+	font-size: 120%;
+	color: #BAA39E;
+}
+#Merritt{
+	padding-left: 8%;
+	padding-top: 2%;
+	font-size: 120%;
+	color: #BAA39E;
+}
+#phone{
+	color: green;
+	margin-top:3%;
+	font-size:300%;
+	margin-left: 10%;
+}
+#phone:hover{
+	color: gray;
+}
+#envelope{
+	color: green;
+	margin-top:3%;
+	font-size:300%;
+	margin-left: 10%;
+}
+#envelope:hover{
+	color: gray;
+}
+.Form{
+	float: right;
+	margin-top: -60%;
+}
+#name{
+	width:90%;
+	height: 40px;
+	border: none;
+	background-color: #E7DEDD;
+	outline: none;
+	padding-left: 1%;
+}
+#Id{
+	margin-top: 15%;
+	width:90%;
+	height: 40px;
+	border: none;
+	background-color: #E7DEDD;
+	outline: none;
+	padding-left: 1%;
+}
+#Here{
+	margin-top: 15%;
+	width:90%;
+	height: 160px;
+	padding-bottom: 20%;
+	border: none;
+	background-color: #E7DEDD;
+	outline: none;
+	padding-left: 1%;
+}
+#btn{
+	margin-top: 8%;
+	height: 50px;
+	width: 18%;
+	background-color: #F5A910;
+	border: 1px solid #F5A910;
+    border-radius: 5%;
+    color: white;
+    font-size: 130%;
+}
+#btn:hover{
+	background-color: #D89715;
+	transition: 1s;
+}
+.lastdiv{
+	width: 100%;
+	background-color: #1B1B19;
+	position: relative;
+	margin-top: 3%;
+}
+#lstdiv{
+	width: 25%;
+	margin-left: 5%;
+}
+#bout{
+	font-size: 20px;
+	color: #95B015;
+	padding-top: 20%;
+}
+#Agency{
+	font-size: 17px;
+	color: #D3D9B9;
+}
+
+#lstdivv{
+	width: 25%;
+	margin-left: 28%;
+	margin-top: -23%;
+}
+#boutv{
+	font-size: 20px;
+	color: #95B015;
+	padding-top: 20%;
+}
+#Agencyv{
+	font-size: 17px;
+	color: #D3D9B9;
+	list-style: none;
+}
+
+
+#lstdivx{
+	width: 25%;
+	margin-left: 50%;
+	margin-top: -25%;
+}
+#boutx{
+	font-size: 20px;
+	color: #95B015;
+	padding-top: 20%;
+}
+#Agencyx{
+	font-size: 17px;
+	color: #D3D9B9;
+}
+.fafafafa{
+	width: 260px;
+	border: none;
+	outline: none;
+	height: 40px;
+	padding-left: 3%;
+	background-color: #1B1B19;
+	color: white;
+}
+#lstdivxx{
+	float: right;
+	margin-top: -34%;
+	margin-right: 8%;
+}
+#hhr{
+	color:#FBFDF5;
+	height: 2px;
+	margin-top: -1%;
+}
+#hrhr{
+	margin-top: 10%;
+	color: white;
+}
+#nkitBig{
+	color: #73756B;
+	padding-left: 7%;
+	padding-top: 0.5%;
+	font-size: 15px;	
+}
+
+.plus{ 
+    color: #838579;
+    float: right;
+    margin-right: 7%;
+    margin-top: -3%;
+    font-size:21px;
+}
+.facebook{
+	color: #838579;
+    float: right;
+    font-size: 18px;
+    margin-top: -3%;
+    margin-right: 11%;
+}
+.twitter{
+	color: #838579;
+    float: right;
+    margin-top: -3%;
+    font-size: 18px;
+    margin-right: 14%;
+}
+.plus:hover{
+	color: #95B015;
+}
+.facebook:hover{
+	color: #95B015;
+}
+.twitter:hover{
+	color: #95B015;
+}
+
+
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+	.navbar-inverse{
+	}
+	.img-responsive{
+		margin-top: 4%;
+		margin-left: 5%;
+	}
+	.web1{
+		height: 300px;
+	}
+	#HAVE{
+		margin-top: -60%;
+		font-size: 15px;
+	}
+	#Contact{
+		font-size: 40px;
+	}
+	#Our{
+		font-size: 14px;
+	}
+	#ddiiv{
+		margin-top:30%;
+	}
+	#rig{
+		padding-top: 110%;
+	}
+	#btn{
+		width: 100%;
+		height: 60px;
+	}
+	.lastdiv{
+		margin-top:100%;
+	}
+	.col-6{
+		height: 970px;
+	}
+	#lstdivv{
+		margin-top: 10%;
+		margin-left: 5%;
+	}
+	#lstdivx{
+		margin-top: 5%;
+		margin-left: 5%;
+	}
+	#lstdivxx{
+		margin-top: 10%;
+	}
+	#bout{
+		margin-left: -25%;
+	}
+	.fafafafa{
+		margin-left: -25%;
+	}
+
+}

@@ -1,0 +1,78 @@
+.navbar-inverse{
+	width: 114%;
+	margin-left:-7.5%;
+	height: 90px;
+}
+.img-responsive{
+	 width: 90px;
+	 margin-left: 7em;
+	 margin-top: 2em;
+}
+#menu{
+	 margin-right: 5%;
+	 margin-top: 1em;
+}
+.muh{
+	height: 1000px; 
+	width: 117%; 
+	background-color:#27637F; 
+	margin-left: -8%;
+}
+#Salient{
+	 color:#B4B9BB; 
+	 font-size: 20px;
+	 padding-top: 15%;
+	 text-align: center;
+}
+#WordPress{
+	 text-align:center;
+	 font-size: 100px;
+	 color: white;
+	 padding-top: 4%;
+	 font-family:Optima;
+}
+.btn{
+	 width: 20%;
+	 height: 65px;
+	 background-color: black;
+	 margin-left: 40%;
+	 margin-top: 7%;
+	 font-size: 20px;
+	 border: none;
+}
+#ankr{
+	color: white;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+ .navbar-inverse{
+ 	width: 130%;
+ 	margin-left: -15%;
+ 	height: 46px;
+ }
+ .img-responsive{
+ 	margin-left: -10%;
+ 	margin-top: 3%;
+ }
+ #icon{
+ 	border: none;
+ 	margin-right: -3%;
+ }
+ .muh{
+ 	width: 130%;
+ 	margin-left: -15%;
+ 	height: 550px;
+ }
+ #Salient{
+ 	width: 40%;
+ 	margin-left: 30%;
+ }
+ #WordPress{
+ 	font-size: 45px;
+ }
+ .btn{
+ 	width: 60%;
+ 	margin-left: 20%;
+ 	margin-top: 20%;
+ }
+}

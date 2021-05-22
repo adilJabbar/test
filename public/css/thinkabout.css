@@ -1,0 +1,377 @@
+body{
+	background-color: #F2FFF6;
+}
+}
+.navbar-inverse{
+	height: 150px;
+}
+.container{
+	height: 90px;
+}
+.img-responsive{
+	width: 90px;
+	margin-top:2em;
+}
+#menu{
+	margin-top: 1em;
+	color: white;
+}
+.web1{
+	width: 100%;
+	height: 650px;
+}
+#HAVE{
+	margin-top: -30%;
+	color: white;
+	text-align: center;
+	font-size: 130%;
+}
+#Contact{
+	color: white;
+	text-align: center;
+	font-size: 650%;
+}
+#Our{
+	text-align: center;
+	color: #977B75;
+	font-size: 130%;
+}
+#Touch{
+	margin-top: 2%;
+	margin-left: 43%;
+	height: 50px;
+	width: 14%;
+	background-color: #0000;
+	border: 2px solid #F9A806;
+	color: white;
+	font-size: 15px;
+	border-radius: 2%;
+}
+#Touch:hover{
+	background-color:#F9A806; 
+	transition: 1s;
+}
+.container-fluide{
+	height: 600px;
+	background-color: black;
+}
+.content{
+	padding-top: 14%;
+	text-align: center;
+}
+#VISION{
+	font-size: 15px;
+	color: #CF9115;
+}
+#strive{
+	color: white;
+	font-size: 27px;
+	padding-top: 1%;
+}
+#leading{
+	color: white;
+	font-size: 18px;
+	padding-top: 1%;
+}
+.col{
+	margin-left: 10%;
+	padding-top: 10%;
+
+}
+#THINK{
+	color: #A1BEA9;
+	font-size: 15px;
+}
+#Mission{
+	font-size: 35px;
+	color: white;
+}
+#become{
+	font-size: 20px;
+	color: #7E9886;
+}
+#img{
+	height: 385px;
+}
+#imgg{
+	height: 450px;
+}
+.coll{
+	margin-left: 15%;
+	padding-top: 10%;
+}
+#Story{
+	width: 30%;
+	height: 50px;
+	background-color: #0000;
+	border: 2px solid black;
+	margin-top: 4%;
+	color: white;
+	border: 2px solid #F9A806;
+}
+#Story:hover{
+	background-color: #F9A806;
+	transition: 1s;
+	border: none;
+}
+.RISE{
+	margin-left: -95%;
+	padding-top: 20%;
+}
+#immg{
+	height: 390px;
+	margin-left: 104%;
+	margin-top: -70%;
+}
+.Enough{
+	background-color: black;
+	height: 300px;
+	width: 100%;
+	float: left;
+	color: white;
+	padding-left: 5%;
+	padding-top: 3%;
+
+}
+#Talk{
+   font-size: 50px;
+}
+#bbttn{
+	float: right;
+	width: 18%;
+	height: 60px;
+	background-color: #F9A806;
+	margin-right: 10%;
+	margin-top: -10%;
+	border: none;
+	font-size:20px;
+	border-radius: 3%;
+}
+
+
+.lastdiv{
+	width: 100%;
+	background-color: #1B1B19;
+	
+	z-index: 1;
+}
+.div2nd{
+
+}
+#lstdiv{
+	width: 25%;
+	margin-left: 5%;
+}
+#bout{
+	font-size: 20px;
+	color: #95B015;
+	padding-top: 20%;
+}
+#Agency{
+	font-size: 17px;
+	color: #D3D9B9;
+}
+
+#lstdivv{
+	width: 25%;
+	margin-left: 28%;
+	margin-top: -23%;
+}
+#boutv{
+	font-size: 20px;
+	color: #95B015;
+	padding-top: 20%;
+}
+#Agencyv{
+	font-size: 17px;
+	color: #D3D9B9;
+	list-style: none;
+}
+
+
+#lstdivx{
+	width: 25%;
+	margin-left: 50%;
+	margin-top: -25%;
+}
+#boutx{
+	font-size: 20px;
+	color: #95B015;
+	padding-top: 20%;
+}
+#Agencyx{
+	font-size: 17px;
+	color: #D3D9B9;
+}
+.fafafafa{
+	width: 260px;
+	border: none;
+	outline: none;
+	height: 40px;
+	padding-left: 3%;
+	background-color: #1B1B19;
+	color: white;
+}
+#lstdivxx{
+	float: right;
+	margin-top: -34%;
+	margin-right: 8%;
+}
+#hhr{
+	color:#FBFDF5;
+	height: 2px;
+	margin-top: -1%;
+}
+#hrhr{
+	margin-top: 10%;
+	color: white;
+}
+#nkitBig{
+	color: #73756B;
+	padding-left: 7%;
+	padding-top: 0.5%;
+	font-size: 15px;	
+}
+
+.plus{ 
+    color: #838579;
+    float: right;
+    margin-right: 7%;
+    margin-top: -3%;
+    font-size:21px;
+}
+.facebook{
+	color: #838579;
+    float: right;
+    font-size: 18px;
+    margin-top: -3%;
+    margin-right: 11%;
+}
+.twitter{
+	color: #838579;
+    float: right;
+    margin-top: -3%;
+    font-size: 18px;
+    margin-right: 14%;
+}
+.plus:hover{
+	color: #95B015;
+}
+.facebook:hover{
+	color: #95B015;
+}
+.twitter:hover{
+	color: #95B015;
+}
+.main-content{
+	background-color:
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+.web1{	
+	height: 300px;
+}
+#HAVE{
+	margin-top: -50%;
+	
+}
+#Contact{
+	font-size: 40px;
+}
+#Touch{
+	width: 40%;
+	margin-left:30%;
+}
+.content{
+    margin-top: -22em;
+}
+#Mission{
+   color: black;
+}
+#img{
+	width: 100%;
+	height: 400px;
+}
+#imgg{
+	width: 100%;
+	height: 400px;
+}
+#Story{
+	color: black;
+	width: 50%;
+	border-color: black;
+	border-radius: 2px;
+}
+.RISE{
+	margin-left: 10%;
+	width: 100%;
+}
+#Mission{
+	font-size: 35px;
+}
+#become{
+	font-size: 140%;
+}
+#immg{
+	width: 100%;
+	height: 200px;
+	margin-top: 15%;
+	margin-left: 0%;
+}
+#Talk{
+	font-size: 40px;
+	text-align: center;
+}
+#bbttn{
+	margin-top: 5%;
+	float: left;
+	width: 50%;
+}
+#become{
+	font-size: 130%;
+}
+#bbttn{
+	margin-left: 20%;
+}
+
+
+
+
+
+
+
+.lastdiv{
+		margin-top:70%;
+		padding-top: 10%;
+	}
+	#bout{
+		padding-left: 25%;
+	}
+	.col-6{
+		height: 970px;
+	}
+	#lstdivv{
+		margin-top: 10%;
+		margin-left: 5%;
+	}
+	#lstdivx{
+		margin-top: 5%;
+		margin-left: 5%;
+	}
+	#lstdivxx{
+		margin-top: 10%;
+	}
+	#bout{
+		margin-left: -25%;
+	}
+	.fafafafa{
+		margin-left: -25%;
+	}
+
+
+
+
+
+
+
+}

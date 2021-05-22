@@ -1,0 +1,1213 @@
+*{
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.container-fluide{
+	background-image: url(style/eye-fatigue.jpg);
+	height: 660px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	transition: 5s;
+	animation-name:all;
+	animation-direction: alternate-reverse;
+	animation-duration: 5s;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+	animation-play-state: running;
+	animation-timing-function: ease-in-out;
+}
+@keyframes all{
+	0%{
+		background-image: url(style/a1c6fdc7be23bfd0919b10507ccb8ef5.jpg);
+	}
+}
+.navbar-inverse{
+	height: 100px;
+}
+.img-responsive{
+	width: 90px;
+	margin-top: 3em;
+}
+#menu{
+	margin-top: 2em;
+	color: white;
+}
+.contain{
+	height: 7em;
+	background-color:#0009;
+}
+.img1{
+	height: 1.5em;
+	width: 6em;
+	margin-left: 7%;
+	margin-top: 3%;
+}
+.ul1{
+	margin-left: 65%;
+	margin-top: -1.5%;
+
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+nav ul li a:hover{
+	transition: 1s;
+	text-decoration: underline #169820;
+	background-color:blue;
+	color: white;
+
+
+}
+.ul1 li{
+	list-style: none;
+	color:white;
+    font-size:4.5mm;
+    display: inline-block;
+    margin-left: 2%;
+    font-size: 100%;
+}
+.para1{
+	font-size: 120%;
+	color: #6EE80E;
+	padding-left: 15%;
+	padding-top: 6em;
+}
+.ha1{
+	color: white;
+	padding-left: 15%;
+	font-size: 58px;
+}
+.iii{
+	font-size: 35px;
+	color: white;
+	float: right;
+	margin-right: 5%;
+	border: 3px;
+	border-radius: 50px;
+	margin-top: -13%;
+}
+.iii:hover{
+	background-color: #865948;
+}
+.icon2{
+	font-size: 35px;
+	color: white;
+	float: left;
+	margin-left: 5%;
+	border: 3px;
+	border-radius: 50px;
+	margin-top: -13%;
+}
+.icon2:hover{
+	background-color: #865948;
+}
+.abab{
+	width: 100%;
+}
+.new{
+	width: 58%;
+	height: 500px;
+	float: right;
+	margin-top: 6%;
+}
+.new2{
+	width: 40%;
+	margin-top: 6%;
+	padding-left: 5%; 
+	float: left;
+}
+.the{
+	padding-left: 25%;
+	color: skyblue;
+}
+.one{
+	padding-left: 25%;
+	padding-top: 2%;
+}
+.para3{
+	padding-left: 25%;
+	font-size: 20px;
+	padding-top: 2%;
+}
+.what{
+	color: skyblue;
+	padding-left: 25%;
+	margin-top: 12%;
+}
+.para4{
+	padding-left: 25%;
+	font-size: 17px;
+	padding-top: 1%;
+}
+.para5{
+	padding-left: 55%;
+	font-size: 17px;
+	margin-top: -23%;
+}
+.here{
+	padding-top: 80%;
+}
+.here1{
+	text-align: center;
+	font-size: 48px;
+}
+.seo{
+	margin-left: 9%;
+	margin-top: 7%;
+}
+.para6{
+	font-size: 18px;
+	color: #605450;
+	text-align: justify;
+}
+#Marketing{
+	padding-left: 4%;
+}
+.seoo{
+	margin-left:39%;
+	margin-top: -16%;
+}
+.para66{
+	font-size: 18px;
+	color: #605450;
+	text-align: justify;
+}
+#Marketingg{
+	padding-left: 4%;
+}
+.seooo{
+	margin-left:69%;
+	margin-top: -17%;
+}
+.para666{
+	font-size: 18px;
+	color: #605450;
+	text-align: justify;
+}
+#Marketinggg{
+	padding-left: 4%;
+}
+.seooa{
+	margin-left:39%;
+	margin-top: -18.5%;
+}
+.para66a{
+	font-size: 18px;
+	color: #605450;
+	text-align: justify;
+}
+#Marketingga{
+	padding-left: 4%;
+}
+.seoooa{
+	margin-left:69%;
+	margin-top: -16%;
+}
+.para666a{
+	font-size: 18px;
+	color: #605450;
+	text-align: justify;
+}
+#Marketinggga{
+	padding-left: 4%;
+}
+.seoooa1{
+	margin-left:69%;
+	margin-top: -20%;
+}
+.para666a1{
+	font-size: 18px;
+	color: #605450;
+	text-align: justify;
+}
+#Marketinggga1{
+	padding-left: 4%;
+}
+.seooa3{
+	margin-left:39%;
+	margin-top: -11%;
+}
+.para66a3{
+	font-size: 18px;
+	color: #605450;
+	text-align: justify;
+}
+#Marketingga3{
+	padding-left: 4%;
+}
+.seoooa13{
+	margin-left:69%;
+	margin-top: -11%;
+}
+.para666a13{
+	font-size: 18px;
+	color: #605450;
+	text-align: justify;
+}
+#Marketinggga13{
+	padding-left: 4%;
+}
+.container-fluidee{
+	height: 350px;
+	background-color:#38364D;
+}
+#see{
+	color: white;
+	text-align: center;
+
+}
+#our{
+	font-size:50px;
+	padding-top: 4%;
+}
+.Satisfied{
+	color: #C79AB5;
+	text-align: center;
+
+}
+#but{
+	width: 15%;
+	height: 50px;
+	color: white;
+	background-color: #38364D;
+	border: 3px solid #4AD81E; 
+    border-radius:5px;
+    margin-left: 42%;
+    margin-top: 4%;
+}
+#but:hover{
+	background-color: #4AD81E;
+	transition: 1s;
+}
+.vid-bg{
+width: 100%;
+position: absolute;	
+}
+.nav-area{
+	position: absolute;
+	color: white;
+	text-align: center;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+#Keyword{
+	color: white;
+	position: absolute;
+	margin-top: 19%;
+	margin-left: 35%;
+
+}
+#Keyworde{
+	color: white;
+	position: absolute;
+	margin-top: 19%;
+	margin-left: 52%;
+}
+#Keywordee{
+	color: white;
+	position: absolute;
+	margin-top: 23%;
+	margin-left: 46%;
+}
+.Driving{
+	color: #38363B;
+	margin-top: 11%;
+	margin-left: 7%;
+}
+.Profits{
+	font-size: 50px;
+}
+#Learn{
+	width: 15%;
+	height: 50px;
+	color: black;
+	background-color: white;
+	border: 3px solid #4AD81E; 
+    border-radius:5px;
+    margin-top: 4%;
+}
+#Learn:hover{
+	background-color: #4AD81E;
+	transition: 1s;
+	color: white;
+}
+.Focused{
+	height: 315px;
+	width: 26%;
+	margin-left: 36%;
+	margin-top: -20%;
+	border-radius: 2%;
+}
+.Focused:hover{
+	background-color: #4AD81E;
+	transition: 0.5s;
+	color: white;
+}
+#ship{
+	
+	font-size: 40px;
+	padding-left: 17%;
+	padding-top: 15%;
+}
+#Sales{
+	font-size: 28px;
+	padding-top: 10%;
+	padding-left: 17%;
+
+}
+#that{
+	padding-top: 2%;
+	padding-left: 17%;
+}
+
+
+
+.Focusedi{
+	height: 315px;
+	width: 26%;
+	margin-left: 65%;
+	margin-top: -23.4%;
+	border-radius: 2%;
+}
+.Focusedi:hover{
+	background-color: #4AD81E;
+	transition: 0.5s;
+	color: white;
+}
+#shipi{
+	
+	font-size: 40px;
+	padding-left: 17%;
+	padding-top: 15%;
+}
+#Salesi{
+	font-size: 28px;
+	padding-top: 10%;
+	padding-left: 17%;
+
+}
+#thati{
+	padding-top: 2%;
+	padding-left: 17%;
+}
+
+.Higher{
+	height: 315px;
+	width: 26%;
+	margin-left: 36%;
+	border-radius: 2%;
+	margin-top: 3%;
+}
+.Higher:hover{
+	background-color: #4AD81E;
+	transition: 0.5s;
+	color: white;
+}
+#user{
+	font-size: 40px;
+	padding-left: 17%;
+	padding-top: 15%;
+	
+}
+#Revenue{
+	font-size: 28px;
+	padding-top: 10%;
+	padding-left: 17%;
+}
+#performance{
+	padding-top: 2%;
+	padding-left: 17%;
+}
+.Budget{
+	height: 315px;
+	width: 26%;
+	margin-left: 65%;
+	margin-top: -23.4%;
+	border-radius: 2%;
+}
+.Budget:hover{
+	background-color: #4AD81E;
+	transition: 0.5s;
+	color: white;
+	}
+#trophy{
+	font-size: 40px;
+	padding-left: 17%;
+	padding-top: 15%;
+}
+#Friendly{
+	font-size: 28px;
+	padding-top: 10%;
+	padding-left: 17%;
+}
+#plans{
+	padding-top: 2%;
+	padding-left: 17%;
+}
+#Uncovering{
+	text-align: center;
+}
+#proven{
+	margin-left: 28%;
+	margin-top: 3%;
+}
+#follow{
+	font-size: 18px;
+}
+
+
+.YEARS{
+	width: 30%;
+	background-color: white;
+	margin-left: 10%;
+}
+#cloud{
+	font-size: 50px;
+	color: skyblue;
+	padding-left: 25%;
+	padding-top: 24%;
+}
+#OF{
+	margin-top: 7%;
+	font-size: 16px;
+	padding-left: 10%;
+
+}
+#been{
+	font-size: 19px;
+	color: #665A71;
+}
+
+
+
+
+.YEARSa{
+	width: 30%;
+	background-color: white;
+	margin-left: 40%;
+	margin-top: -38%;
+}
+#clouda{
+	font-size: 50px;
+	color: skyblue;
+	padding-left: 25%;
+	padding-top: 24%;
+}
+#OFa{
+	margin-top: 7%;
+	font-size: 16px;
+	padding-left: 5%;
+
+}
+#beena{
+	font-size: 19px;
+	color: #665A71;
+	margin-left: -2%;
+}
+
+
+
+
+.YEARSab{
+	width: 30%;
+	background-color: white;
+	margin-left: 70%;
+	margin-top: -39%;
+}
+#cloudab{
+	font-size: 50px;
+	color: skyblue;
+	padding-left: 25%;
+	padding-top: 24%;
+}
+#OFab{
+	margin-top: 7%;
+	font-size: 16px;
+	padding-left: 5%;
+
+}
+#beenab{
+	font-size: 19px;
+	color: #665A71;
+	margin-left: -2%;
+}
+#cre{
+	margin-top: -3%;
+	margin-left: 18%;
+}
+#SUCC{
+text-align: center;
+font-size: 45px;
+margin-top: 15%;
+}
+
+.sleder{
+	overflow: hidden;
+	height: 400px;
+	margin-top: 8%;
+	margin-left: 10%;
+	
+}
+.sleder figure div{
+	float: left;
+	width: 20%;
+}
+.sleder figure img{
+	width: 90%;
+	float: left;
+}
+.sleder figure{
+	position: relative;
+	width: 500%;
+	margin: 0px;
+    left: 0;
+    animation:10s ravi infinite
+}
+@keyframes ravi{
+	0%{
+       left: 0%;
+	}
+	10%{
+       left: 0%;
+	}
+	12%{
+        left: -100%;
+	}
+	22%{
+		left: -100%
+	}
+	24%{
+         left: -200%
+	}
+	34%{
+       left: -200%
+	}
+	36%{
+         left: -300%
+	}
+	46%{
+       left: -300%
+	}
+	48%{
+         left: -400%
+	}
+	58%{
+       left: -400%
+	}
+	60%{
+         left: -500%
+	}
+	70%{
+       left: -500%
+	}
+}
+
+#bgbga{
+	width: 100%;
+	margin-top: 15%;
+}
+#jpg{
+	width: 100%;
+	height: 760px;
+	z-index: 1;
+}
+#Choose{
+z-index: 2;
+margin-top: -42%;
+color: white;
+text-align: center;
+}
+#hy{
+	font-size: 80px;
+}
+.perf{
+	color: #76A0AB;
+	font-size: 16px;
+
+}
+#Me{
+	height: 55px;
+	width: 15%;
+	background-color: #B3A90F;
+	border: 1px solid #B3A90F;
+	border-radius: 5px;
+	margin-top: 4%;
+}
+#Me:hover{
+	background-color: #9B920B;
+}
+#keeping{
+	margin-top: 14%;
+}
+#Keywordm{
+	color: white;
+	position: absolute;
+	margin-top: 28%;
+	margin-left: 45%;
+	
+}
+#Keywordmq{
+	color: white;
+	position: absolute;
+	margin-top: 30%;
+	margin-left: 48%;
+	font-size: 14px;
+	color: #84837D;
+	
+}
+.Asked{
+	width: 90%;
+	margin-left: 7%;
+}
+#Answer{
+	font-size: 330%;
+}
+#Dose{
+	width: 100%;
+	height: 40px;
+	margin-top: 5%;
+}
+#ment{
+font-size: 26px;
+}
+#ment:hover{
+	color: #D3C92D;
+	transition: 0.2s;
+}
+#Dosee{
+	width: 100%;
+	height: 40px;
+	margin-top: 3%;
+}
+#mentt{
+font-size: 26px;
+}
+#mentt:hover{
+	color: #D3C92D;
+	transition: 0.2s;
+}
+.lastdiv{
+	width: 100%;
+	background-color: #1B1B19;
+	position: relative;
+	margin-top: 8%;
+}
+#lstdiv{
+	width: 25%;
+	margin-left: 5%;
+}
+#bout{
+	font-size: 20px;
+	color: #95B015;
+	padding-top: 20%;
+}
+#Agency{
+	font-size: 17px;
+	color: #D3D9B9;
+}
+
+#lstdivv{
+	width: 25%;
+	margin-left: 28%;
+	margin-top: -26%;
+}
+#boutv{
+	font-size: 20px;
+	color: #95B015;
+	padding-top: 20%;
+}
+#Agencyv{
+	font-size: 17px;
+	color: #D3D9B9;
+	list-style: none;
+}
+
+
+#lstdivx{
+	width: 25%;
+	margin-left: 50%;
+	margin-top: -26%;
+}
+#boutx{
+	font-size: 20px;
+	color: #95B015;
+	padding-top: 20%;
+}
+#Agencyx{
+	font-size: 17px;
+	color: #D3D9B9;
+}
+.fafafafa{
+	width: 260px;
+	border: none;
+	outline: none;
+	height: 40px;
+	padding-left: 3%;
+	background-color: #1B1B19;
+	color: white;
+}
+#lstdivxx{
+	float: right;
+	margin-top: -28%;
+	margin-right: 8%;
+}
+#hhr{
+	color:#FBFDF5;
+	height: 2px;
+	margin-top: -1%;
+}
+#hrhr{
+	margin-top: 3%;
+	color: white;
+}
+#nkitBig{
+	color: #73756B;
+	padding-left: 7%;
+	padding-top: 0.5%;
+	font-size: 15px;	
+}
+
+.plus{ 
+    color: #838579;
+    float: right;
+    margin-right: 7%;
+    margin-top: -3%;
+    font-size:21px;
+}
+.facebook{
+	color: #838579;
+    float: right;
+    font-size: 18px;
+    margin-top: -3%;
+    margin-right: 11%;
+}
+.twitter{
+	color: #838579;
+    float: right;
+    margin-top: -3%;
+    font-size: 18px;
+    margin-right: 14%;
+}
+.plus:hover{
+	color: #95B015;
+}
+.facebook:hover{
+	color: #95B015;
+}
+.twitter:hover{
+	color: #95B015;
+}
+#boybb{
+	width:300px;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+   
+  .ul1{
+  	display: none;
+  }
+  .para1{
+  	font-size: 10px;
+  	margin-left: -10%;
+  	color: gray;
+  }
+  .ha1{
+  	font-size: 17px;
+  	margin-left: -10%;
+
+  }
+  .new2{
+  	width: 100%;
+  	margin-top: -70em;
+  	margin-left: -10%;
+  }
+  .container-fluide{
+  	width: 100%;
+  	height: 350px;
+  }
+  .iii{
+  	margin-top: -25%;
+  }
+  .icon2{
+  	margin-top: -25%;
+  }
+.abab{
+	padding-top: 140%;
+	margin-left: 10%;
+  }
+  .the{
+  	padding-left: 0%;
+  	width: 100%;
+
+  }
+  .one{
+  	margin-left: -30%;
+  	font-size: 200%;
+  }
+  .new{
+  	width: 100%;
+  }
+  .para3{
+  	width: 100%;
+  	margin-left: -30%;
+  	font-size: 140%;
+  }
+  .what{
+  	width: 100%;
+  	margin-left: -30%;
+  	font-size: 120%;
+  }
+  .para4{
+  	width: 100%;
+  	margin-left: -30%;
+  	font-size: 140%;
+  }
+  .para5{
+  	width: 100%;
+  	float: left;
+  	font-size: 140%;
+  	margin-top: 10%;
+  	margin-left: -60%;
+  }
+  .here{
+  	margin-top: 230%;
+
+  }
+  .here1{
+  	font-size: 200%;
+  	text-align: center;
+  	padding-right: 15%;
+  }
+  #Marketing{
+  	font-size: 120%;
+  	text-align: center;
+  	padding-right: 30%;
+  }
+  .seo{
+	margin-top: 25%;
+}
+.para6{
+	font-size: 110%;
+	width: 100%;
+}
+.seoo{
+	margin-top: 10%;
+}
+#Marketingg{
+	font-size: 120%;
+  	text-align: center;
+  	padding-right: 30%;
+  	margin-left: -50%;
+}
+.para66{
+	font-size: 110%;
+	margin-left: -50%;
+	width: 100%;
+	padding-top: 15%;
+}
+.seooo{
+	margin-top: 15%;
+}
+#Marketinggg{
+	font-size: 125%;
+  	text-align: center;
+  	padding-right: 30%;
+  	margin-left: -250%;
+}
+.para666{
+	font-size: 110%;
+	margin-left: -200%;
+	width:250%;
+	margin-top: 15%;
+}
+.seooa{
+	margin-top: 20%;
+}
+#Marketingga{
+	font-size: 125%;
+  	text-align: center;
+  	padding-right: 30%;
+  	margin-left: -50%;
+}
+.para66a{
+	font-size: 110%;
+	margin-left: -50%;
+	width:250%;
+	margin-top: 15%;
+}
+.seoooa{
+	margin-top: 20%;
+}
+#Marketinggga{
+	font-size: 125%;
+  	text-align: center;
+  	padding-right: 30%;
+  	margin-left: -220%;
+}
+.para666a{
+	font-size: 110%;
+	margin-left: -200%;
+	width:250%;
+	margin-top: 15%;
+}
+.seoooa1{
+	margin-top: 20%;
+}
+#Marketinggga1{
+	font-size: 125%;
+  	text-align: center;
+  	padding-right: 30%;
+  	margin-left: -220%;
+}
+.para666a1{
+	font-size: 110%;
+	margin-left: -200%;
+	width:250%;
+	margin-top: 15%;
+}
+.seooa3{
+	margin-top: 20%;
+}
+#Marketingga3{
+	font-size: 125%;
+  	text-align: center;
+  	padding-right: 30%;
+  	margin-left: -50%;
+}
+.para66a3{
+	font-size: 110%;
+	margin-left: -50%;
+	width:250%;
+	margin-top: 15%;
+}
+.seoooa13{
+	margin-top: 20%;
+}
+#Marketinggga13{
+	font-size: 110%;
+	margin-left: -150%;
+	width:250%;
+	margin-top: 15%;
+}
+.para666a13{
+	font-size: 110%;
+	margin-left: -200%;
+	width:250%;
+	margin-top: 15%;
+}
+.container-fluidee{
+	width: 100%;
+	margin-top: -40%;
+}
+#our{
+	font-size: 210%;
+	padding-top: 15%;
+}
+.Satisfied{
+	font-size: 120%;
+	width: 100%;
+	text-align: center;
+	
+	margin-top: 10%;
+}
+#but{
+	width: 60%;
+	margin-left: 20%;
+	margin-top: 15%;
+}
+.vid-bg{
+	width: 100%;
+}
+.nav-area{
+   display: none;
+}
+#Keyword{
+	padding-right: 80%;
+	padding-top: 7%;
+}
+#Keyworde{
+	padding-right: 150%;
+	padding-bottom: 10%;
+}
+#Keywordee{
+	padding-right: 150%;
+	padding-bottom: 10%;
+}
+.Driving{
+	margin-top: -160%;
+	margin-left: 0%;
+	width: 85%;
+	
+}
+.Profits{
+	font-size: 230%;
+	padding-top: 15%;
+	padding-left: 5%;
+}
+#Learn{
+	width: 45%;
+	margin-top: 10%;
+	margin-left: 5%;
+}
+.Focused{
+	margin-top: 10%;
+	width: 75%;
+	margin-left: 10%;
+
+}
+#Sales{
+	font-size: 150%;
+	
+}
+.Focusedi{
+	margin-top: 7%;
+	width: 75%;
+	margin-left: 10%;
+}
+#Salesi{
+	font-size: 150%;
+}
+.Higher{
+	width: 75%;
+	margin-left: 10%;
+}
+#Revenue{
+	font-size: 150%;
+}
+.Budget{
+	margin-top:2%;
+	width: 75%;
+	margin-left: 10%;
+}
+#Friendly{
+	font-size: 150%;
+}
+#Uncovering{
+   width: 70%;
+}
+.ing{
+	margin-top: -40%;
+	margin-left: 20%;
+}
+#proven{
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+    margin-top:20%;
+}
+.YEARS{
+	width:100%;
+    text-align: center;
+    margin-left: 2%;
+    margin-top:10%;
+}
+#cloud{
+	margin-right: 20%;
+}
+.YEARSa{
+	width: 100%;
+    text-align: center;
+    margin-left: 3%;
+    margin-top:10%;
+}
+#clouda{
+	margin-right: 25%;
+}
+.YEARSab{
+	width: 100%;
+    text-align: center;
+    margin-left: 2%;
+    margin-top:10%;
+}
+#cloudab{
+	margin-right: 25%;
+}
+#cre{
+	padding-right: 20%;
+}
+#SUCC{
+	font-size: 220%;
+	padding-top: 10%;
+	padding-right: 5%;
+}
+.sleder{
+	width: 100%;
+	padding-right: 10%;
+	margin-top: 20%;
+}
+#bgbga{
+	width: 100%;
+	margin-top: -10%;
+}
+#Choose{
+	margin-top: -50em;
+}
+#hy{
+   font-size: 320%;
+}
+.perf{
+	width: 90%;
+	text-align: center;
+	margin-left: 5%;
+}
+#Me{
+	width: 60%;
+	margin-top: 25%;
+}
+.vid-bg{
+	margin-top: -10%;
+}
+#keeping{
+   display: none;
+}
+#Keywordm{
+	padding-left: -20%;
+}
+#Keywordmq{
+    padding-top: 5%;
+}
+.Asked{
+	margin-top: -180%;
+}
+#Answer{
+	font-size: 260%;
+}
+#Dose{
+	margin-top: 15%;
+}
+#Dosee{
+	margin-top: 20%;
+}
+.lastdiv{
+		margin-top:100%;
+	}
+	#bout{
+		padding-left: 25%;
+	}
+	.col-6{
+		height: 970px;
+	}
+	#lstdivv{
+		margin-top: 10%;
+		margin-left: 5%;
+	}
+	#lstdivx{
+		margin-top: 5%;
+		margin-left: 5%;
+	}
+	#lstdivxx{
+		margin-top: 10%;
+	}
+	#bout{
+		margin-left: -25%;
+	}
+	.fafafafa{
+		margin-left: -25%;
+	}
+
+
+
+
+
+}
+
